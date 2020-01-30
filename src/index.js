@@ -3,7 +3,7 @@ const mapboxgl = require('mapbox-gl');
 const tilebelt = require('@mapbox/tilebelt');
 const tc = require('@mapbox/tile-cover');
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiYmVuamFtaW50ZCIsImEiOiJjaW83enIwNjYwMnB1dmlsejN6cDBzbm93In0.0ZOGwSLp8OjW6vCaEKYFng';
+mapboxgl.accessToken = 'pk.eyJ1IjoibWFraW5hY29ycHVzIiwiYSI6ImNqY3E4ZTNwcTFta3ozMm80d2xzY29wM2MifQ.Nwl_FHrWAIQ46s_lY0KNiQ';
 
 var map = new mapboxgl.Map({
   container: 'map',
